@@ -1,0 +1,21 @@
+Student_ID,Name,Gender,Age,Department,City,Attendance_Percentage,Math_Marks,Science_Marks,English_Marks,Python_Marks,Projects_Completed,Internship,Placement_Status,Study_Hours_Per_Day,Backlogs,CGPA,Scholarship,Joining_Date
+101,Aarav,Male,20,Data Science,Chennai,92,88,91,85,95,4,Yes,Placed,5,0,8.9,Yes,2024-06-12
+102,Diya,Female,21,AI & ML,Bangalore,85,76,80,79,82,3,No,Not Placed,4,1,7.5,No,2024-06-15
+103,Vihaan,Male,22,Cyber Security,Hyderabad,78,69,72,70,65,2,Yes,Placed,3,2,6.8,No,2024-06-18
+104,Ananya,Female,20,Data Science,Mumbai,96,95,93,90,98,5,Yes,Placed,6,0,9.5,Yes,2024-06-20
+105,Arjun,Male,23,Cloud Computing,Pune,70,60,65,58,62,1,No,Not Placed,2,3,6.1,No,2024-06-25
+106,Saanvi,Female,21,AI & ML,Delhi,89,84,86,88,90,4,Yes,Placed,5,0,8.7,Yes,2024-06-27
+107,Krish,Male,22,Data Science,Chennai,81,74,78,72,80,3,No,Placed,4,1,7.2,No,2024-07-01
+108,Meera,Female,20,Cyber Security,Kolkata,94,90,92,89,91,5,Yes,Placed,6,0,9.2,Yes,2024-07-03
+109,Aditya,Male,21,Cloud Computing,Chennai,68,55,60,57,59,1,No,Not Placed,2,4,5.9,No,2024-07-05
+110,Ishita,Female,22,AI & ML,Bangalore,88,82,85,84,87,4,Yes,Placed,5,0,8.4,Yes,2024-07-08
+111,Rohan,Male,20,Data Science,Hyderabad,73,66,68,64,70,2,No,Not Placed,3,2,6.5,No,2024-07-10
+112,Kavya,Female,23,Cloud Computing,Mumbai,91,87,89,86,88,4,Yes,Placed,5,0,8.8,Yes,2024-07-12
+113,Yash,Male,21,Cyber Security,Pune,77,70,74,69,71,2,No,Not Placed,3,1,6.9,No,2024-07-15
+114,Priya,Female,20,Data Science,Delhi,95,96,94,92,99,5,Yes,Placed,7,0,9.7,Yes,2024-07-18
+115,Ritvik,Male,22,AI & ML,Kolkata,83,78,81,77,84,3,Yes,Placed,4,1,7.8,No,2024-07-20
+116,Nisha,Female,21,Cyber Security,Chennai,87,80,83,82,85,4,Yes,Placed,5,0,8.3,Yes,2024-07-22
+117,Karan,Male,23,Cloud Computing,Bangalore,65,58,61,55,60,1,No,Not Placed,2,3,5.8,No,2024-07-25
+118,Shruti,Female,22,Data Science,Hyderabad,93,91,90,94,96,5,Yes,Placed,6,0,9.4,Yes,2024-07-28
+119,Dev,Male,20,AI & ML,Mumbai,79,72,75,71,78,2,No,Placed,4,1,7.1,No,2024-07-30
+120,Simran,Female,21,Cyber Security,Delhi,90,86,88,85,89,4,Yes,Placed,5,0,8.6,Yes,2024-08-01
