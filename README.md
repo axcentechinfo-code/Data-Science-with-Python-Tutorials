@@ -30,8 +30,8 @@ Welcome to my learning journey repository! This repository contains my notes, co
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ahnaf-learning.git
-cd ahnaf-learning
+git clone https://github.com/axcentechinfo-code/Data-Science-with-Python-Tutorials.git
+cd Data-Science-with-Python-Tutorials
 
 # Install dependencies (if requirements.txt exists)
 pip install -r requirements.txt
